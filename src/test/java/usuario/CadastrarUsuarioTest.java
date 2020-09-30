@@ -23,7 +23,7 @@ public class CadastrarUsuarioTest {
     }
 
     /**
-     * EU COMO usuário da aplicaçãoa
+     * EU COMO usuário da aplicação
      * DESEJO  preencher os campos "Usuário", "Senha" e "Nome"
      * PARA QUE seja realizado o meu cadastro
      */
